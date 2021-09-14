@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="KaushiRajapakshe" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="KaushiRajapakshe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KaushiRajapakshe | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
-[<img align="left" alt="KaushiRajapakshe | Web" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][instagram]
+[<img align="left" alt="KaushiRajapakshe | Web" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KaushiRajapakshe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br>

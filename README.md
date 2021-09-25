@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="KaushiRajapakshe | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt="KaushiRajapakshe | Web" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KaushiRajapakshe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KaushiRajapakshe | Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br>
 
@@ -66,5 +67,6 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/kaushi.rajapakshe1/
 [instagram]: https://www.instagram.com/kaushi_rajapakshe/
 [twitter]: https://twitter.com/kaushirajapaksh/
+[medium]: https://medium.com/@kaushi.rajapakshe/
 
 

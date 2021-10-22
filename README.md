@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 
 [website]: https://kaushi11.000webhostapp.com/
-[linkedin]: https://www.linkedin.com/in/KaushalyaRajapakshe/
+[linkedin]: https://www.linkedin.com/in/kaushalyarajapakshe/
 [facebook]: https://www.facebook.com/kaushi.rajapakshe1/
 [instagram]: https://www.instagram.com/kaushi_rajapakshe/
 [twitter]: https://twitter.com/kaushirajapaksh/

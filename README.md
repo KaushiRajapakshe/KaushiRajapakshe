@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I am Kaushalya Rajapakshe
 
-    I am a Software Engineer.
+    I am a Software Engineer at Arimac.
 
     As a self-motivated, reliable, well organized, and open-minded individual.
 

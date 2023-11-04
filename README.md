@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## Hi, I am Kaushalya Rajapakshe
 
-    I am a Software Engineer at Sysco LABS.
+    I am a Software Engineer.
 
-    As a self-motivated, reliable, well organized, and open-minded individual.
+    As a self-motivated, reliable, well-organized, and open-minded individual.
 
->I believe that a person may work on developing their professional skills and learning new things all the time then they can be genius someday.
+>I believe that a person may work on developing their professional skills and learning new things all the time then they can be a genius someday.
 
 [![Kaushalya's github stats](https://github-readme-stats.vercel.app/api?username=KaushiRajapakshe&count_private=true&show_icons=true&theme=dark)](https://github.com/KaushiRajapakshe/github-readme-stats)
 <br>
